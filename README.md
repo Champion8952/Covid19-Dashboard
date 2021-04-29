@@ -1,5 +1,5 @@
 # Covid19-Dashboard
-A Dahboard creating using Dataset of Covid Patients and Covid Vaccination 
+A Dahboard created using Power BI using Covid Patients and Covid Vaccination Dataset
 
 ![Dashboard 1](https://github.com/Champion8952/Covid19-Dashboard/blob/main/World%20Dashboard1.png)
 
